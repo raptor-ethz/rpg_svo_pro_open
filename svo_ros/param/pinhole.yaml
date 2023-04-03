@@ -8,6 +8,9 @@
 ##### Basic parameters #####
 ############################
 
+# Automatic initialisation
+automatic_reinitialization: True
+
 # Pipeline type
 pipeline_is_stereo: False
 

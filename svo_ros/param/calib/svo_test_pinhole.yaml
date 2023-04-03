@@ -7,11 +7,11 @@ cameras:
         data: [0.9320]
       type: fisheye
     image_height: 480
-    image_width: 752
+    image_width: 640
     intrinsics:
       cols: 1
       rows: 4
-      data: [383.013152, 382.39248, 344.7056, 244.32688]
+      data: [323.432, 242.815, 384.879, 384.372]
     label: cam
     line-delay-nanoseconds: 0
     type: pinhole
